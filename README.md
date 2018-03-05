@@ -1,7 +1,6 @@
 # 目录
 
 
----
 
  - [4. 【H】Median of Two Sorted Arrays][1]
 
