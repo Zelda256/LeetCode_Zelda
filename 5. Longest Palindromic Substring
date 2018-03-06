@@ -1,0 +1,100 @@
+# 5. Longest Palindromic Substring
+
+
+Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
+**Example:**
+
+    Input: "babad"
+    
+    Output: "bab"
+
+Note: "aba" is also a valid answer.
+
+
+**Example:**
+
+    Input: "cbbd"
+    
+    Output: "bb"
+
+
+给出一个字符串s，找出s中最长的回文子串。你可能遇到最长的s的长度为1000
+
+---
+**思路：**
+根据给出的例子，分析回文的可能情况有两种：一种是夹心回文，形如_x_，就是回文序列中有一个不参与回文的字符；第二种情况是对折回文，形如__，就是中间没有不参与回文的字符。
+针对这两种情况，有一点点区别。
+整体的思想是从字符串s的第二个字符（第1号单元）开始向后遍历，先检测第一种情况：检测字符的左右字符是否相同，如果相同就各自向左和向右遍历直到左字符与右字符不相等，遍历的同时记录当前的回文长度，遍历结束后比较当前回文长度是否大于已知的最大回文长度，如果大就保存当前回文序列；然后检测第二种情况，检测当前字符与左字符是否相同，如果相同就令右字符指向当前字符，然后左字符和右字符各自向左和向右遍历直到左字符与右字符不相等，遍历的同时记录当前的回文长度，遍历结束后比较当前回文长度是否大于已知的最大回文长度，如果大就保存当前回文序列 。
+
+**算法：**
+①检测s的长度sz是否小于等于1，如果是就直接返回s
+②设置变量curPos = 1为当前指向的位置，从1开始；curLen = 0是当前已检测到的回文长度；maxLen = 0是当前已知的最长回文长度；subBe和subEn是两个指针，用于检测回文时指向回文的首尾。re用于保存返回的结果。
+③当curPos未遍历到字符串末尾，即curPos != sz，令subBe和subEn分别指向当前遍历位置的左右邻位。
+④检测第一种情况，夹心回文时，如果subBe指向的字符与subEn指向的字符相同，就初始化当前回文长度curLen = 1，然后subBe和subEn分别同时向左右两边遍历，每遍历一个单位，curLen+=2,直到subBe指向的字符与subEn指向的字符不相等。接着比较当前回文长度curLen是否比已知最大回文长度maxLen大，如果大就用substr函数对字符串s进行切割，将结果保存到re中，并更新maxLen为curLen。
+⑤接着检测第二种情况，对称回文。因为在第一种情况时可能已经更改了subBe和subEn，使得subBe和subEn不在curPos的左右邻位上，所以要重新复制subBe和subEn。然后如果左字符与当前字符相等，就令右字符指针指向当前字符位置，初始化当前回文长度 curLen=0，然后subBe和subEn分别同时向左右两边遍历，每遍历一个单位，curLen+=2,直到subBe指向的字符与subEn指向的字符不相等。接着比较当前回文长度curLen是否比已知最大回文长度maxLen大，如果大就用substr函数对字符串s进行切割，将结果保存到re中，并更新maxLen为curLen。
+⑥curPos向右移动一个位置，然后回到第三步
+⑦返回re
+
+---
+
+**代码：**
+
+```C++
+class Solution {
+public:
+       string longestPalindrome(string s) {
+               int sz = s.size();
+               if (sz <= 1) return s;
+               int curPos = 1, curLen = 0, maxLen = 0, subBe, subEn;
+               string re;
+               while (curPos != sz) {
+                      subBe = curPos - 1;
+                      subEn = curPos + 1;
+                      //第一种情况：夹心回文
+                      if (s[subBe] == s[subEn]) {
+                              curLen = 1;
+                              while (subBe >= 0 && subEn < sz && s[subBe] == s[subEn]) {
+                                     curLen += 2;
+                                     subBe--;
+                                     subEn++;
+                              }
+                              if (curLen > maxLen) {
+                                     subBe++;
+                                     re = s.substr(subBe, curLen);
+                                     maxLen = curLen;
+                              }
+                      }
+                      //第二种情况：对折回文
+                      subBe = curPos - 1;
+                      subEn = curPos + 1;
+                      if (s[subBe] == s[curPos]) {
+                              curLen = 0;
+                              subEn = curPos;
+                              while (subBe >= 0 && subEn < sz && s[subBe] == s[subEn]) {
+                                     
+                                     curLen += 2;
+                                     subBe--;
+                                     subEn++;
+                              }
+                              if (curLen > maxLen) {
+                                     subBe++;
+                                     re = s.substr(subBe, curLen);
+                                     maxLen = curLen;
+                              }
+                      }
+                      curPos++;
+               }//while
+               if (maxLen == 0 && s[0] == s[sz - 1]) {
+                              re = s[0];
+               }
+               return re;
+       }
+};
+```
+
+
+
+
+
+
+
