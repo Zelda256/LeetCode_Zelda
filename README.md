@@ -13,10 +13,10 @@
 |   017  |   [Letter Combinations of a Phone Number][7]   |     Medium    |
 
 
-  [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/4.%20Median%20of%20Two%20Sorted%20Arrays.md
-  [2]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/5.%20Longest%20Palindromic%20Substring.md
+  [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/004.%20Median%20of%20Two%20Sorted%20Arrays.md
+  [2]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/005.%20Longest%20Palindromic%20Substring.md
   [3]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/007.%20Reverse%20Integer.md
-  [4]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/11.%20Container%20With%20Most%20Water.md
+  [4]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/011.%20Container%20With%20Most%20Water.md
   [5]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/013.%20Roman%20to%20Integer.md
-  [6]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/15.3Sum.md
+  [6]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/015.%203Sum.md
   [7]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/017.%20Letter%20Combinations%20of%20a%20Phone%20Number.md
