@@ -15,6 +15,7 @@
 |   019  |   [Remove Nth Node From End of List][9]   |     Medium    |
 |   020  |   [Valid Parentheses][10]   |     Easy    |
 |   022  |   [Generate Parentheses][11]  |     Medium    |
+|   026  |   [Remove Duplicates from Sorted Array][12]  |     Easy    |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -28,3 +29,4 @@
   [9]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/019.%20Remove%20Nth%20Node%20From%20End%20of%20List.md
   [10]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/020.%20Valid%20Parentheses.md
   [11]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/022.%20Generate%20Parentheses.md
+  [12]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/026.%20Remove%20Duplicates%20from%20Sorted%20Array.md
