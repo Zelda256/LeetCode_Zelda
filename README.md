@@ -2,23 +2,24 @@
 
 
 
-|    编号    |                        标题                       |       难度       |
-|:----------:|:----------------------------------------------- | :---------------:|
-|   002  |   [Add Two Numbers][1]   |     Medium    |
-|   004  |   [Median of Two Sorted Arrays][2]   |     Hard    |
-|   005  |   [Longest Palindromic Substring][3]   |     Medium    |
-|   007  |   [Reverse Integer][4]   |     Easy    |
-|   011  |   [Container With Most Water][5]   |     Medium    |
-|   013  |   [Roman to Integer][6]   |     Easy    |
-|   015  |   [3Sum][7]   |     Medium    |
-|   017  |   [Letter Combinations of a Phone Number][8]   |     Medium    |
-|   019  |   [Remove Nth Node From End of List][9]   |     Medium    |
-|   020  |   [Valid Parentheses][10]   |     Easy    |
-|   021  |   [Merge Two Sorted Lists][11]   |     Easy    |
-|   022  |   [Generate Parentheses][12]  |     Medium    |
-|   026  |   [Remove Duplicates from Sorted Array][13]  |     Easy    |
-|   028  |   [Implement strStr()][14]  |     Easy    |
-|   033  |   [Search in Rotated Sorted Array][15]  |     Medium    |
+|编号| 题目编号 |     标题     |       难度       |
+|:----------:|:----------:|:----------------------------------------------- | :---------------:|
+|   1  |   002  |   [Add Two Numbers][1]   |     Medium    |
+|   2  |   004  |   [Median of Two Sorted Arrays][2]   |     Hard    |
+|   3  |   005  |   [Longest Palindromic Substring][3]   |     Medium    |
+|   4  |   007  |   [Reverse Integer][4]   |     Easy    |
+|   5  |   011  |   [Container With Most Water][5]   |     Medium    |
+|   6  |   013  |   [Roman to Integer][6]   |     Easy    |
+|   7  |   015  |   [3Sum][7]   |     Medium    |
+|   8  |   017  |   [Letter Combinations of a Phone Number][8]   |     Medium    |
+|   9  |   019  |   [Remove Nth Node From End of List][9]   |     Medium    |
+|   10  |   020  |   [Valid Parentheses][10]   |     Easy    |
+|   11  |   021  |   [Merge Two Sorted Lists][11]   |     Easy    |
+|   12  |   022  |   [Generate Parentheses][12]  |     Medium    |
+|   13  |   026  |   [Remove Duplicates from Sorted Array][13]  |     Easy    |
+|   14  |   028  |   [Implement strStr()][14]  |   Easy  |
+|   15  |   033  |   [Search in Rotated Sorted Array][15]  |   Medium  |
+|   16  |   034  |   [Search for a Range][16]  |   Medium  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -36,3 +37,4 @@
   [13]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/026.%20Remove%20Duplicates%20from%20Sorted%20Array.md
   [14]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/028.%20Implement%20strStr%28%29.md
   [15]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/033.%20Search%20in%20Rotated%20Sorted%20Array.md
+  [16]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/034.%20Search%20for%20a%20Range.md
