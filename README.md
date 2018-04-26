@@ -17,6 +17,7 @@
 |   021  |   [Merge Two Sorted Lists][11]   |     Easy    |
 |   022  |   [Generate Parentheses][12]  |     Medium    |
 |   026  |   [Remove Duplicates from Sorted Array][13]  |     Easy    |
+|   028  |   [Implement strStr()][14]  |     Easy    |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -32,3 +33,4 @@
   [11]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/021.%20Merge%20Two%20Sorted%20Lists.md
   [12]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/022.%20Generate%20Parentheses.md
   [13]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/026.%20Remove%20Duplicates%20from%20Sorted%20Array.md
+  [14]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/028.%20Implement%20strStr%28%29.md
