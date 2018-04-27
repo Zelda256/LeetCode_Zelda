@@ -21,6 +21,7 @@
 |   15  |   032  |   [Longest Valid Parentheses][15]  |   Hard  |
 |   16  |   033  |   [Search in Rotated Sorted Array][16]  |   Medium  |
 |   17  |   034  |   [Search for a Range][17]  |   Medium  |
+|   18  |   053  |   [Maximum Subarray][18]  |   Easy  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -40,3 +41,4 @@
   [15]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/032.%20Longest%20Valid%20Parentheses.md
   [16]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/033.%20Search%20in%20Rotated%20Sorted%20Array.md
   [17]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/034.%20Search%20for%20a%20Range.md
+  [18]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/053.%20Maximum%20Subarray.md
