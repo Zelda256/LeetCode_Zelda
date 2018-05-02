@@ -24,6 +24,7 @@
 |   18  |   048  |   [Rotate Image][18] |   Medium  |
 |   19  |   053  |   [Maximum Subarray][19]  |   Easy  |
 |   20  |   054  |   [Spiral Matrix][20]  |   Medium  |
+|   21  |   055  |   [Jump Game][21]  |   Medium  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -46,3 +47,4 @@
   [18]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/048.%20Rotate%20Image.md
   [19]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/053.%20Maximum%20Subarray.md
   [20]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/054.%20Spiral%20Matrix.md
+  [21]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/055.%20Jump%20Game.md
