@@ -27,7 +27,8 @@
 |   21  |   055  |   [Jump Game][21]  |   Medium  |
 |   22  |   058  |   [Length of Last Word][22]  |   Easy  |
 |   23  |   059  |   [Spiral Matrix II][23]  |   Medium  |
-|   24  |   063  |   [Unique Paths II][24]  |   Medium  |
+|   24  |   062  |   [Unique Paths][24]  |   Medium  |
+|   25  |   063  |   [Unique Paths II][25]  |   Medium  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -53,4 +54,5 @@
   [21]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/055.%20Jump%20Game.md
   [22]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/058.%20Length%20of%20Last%20Word.md
   [23]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/059.%20Spiral%20Matrix%20II.md
-  [24]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/063.%20Unique%20Paths%20II.md
+  [24]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/062.%20Unique%20Paths.md
+  [25]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/063.%20Unique%20Paths%20II.md
