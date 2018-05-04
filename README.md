@@ -29,6 +29,7 @@
 |   23  |   059  |   [Spiral Matrix II][23]  |   Medium  |
 |   24  |   062  |   [Unique Paths][24]  |   Medium  |
 |   25  |   063  |   [Unique Paths II][25]  |   Medium  |
+|   26  |   064  |   [Minimum Path Sum][26]  |   Medium  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -56,3 +57,4 @@
   [23]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/059.%20Spiral%20Matrix%20II.md
   [24]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/062.%20Unique%20Paths.md
   [25]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/063.%20Unique%20Paths%20II.md
+  [26]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/064.%20Minimum%20Path%20Sum.md
