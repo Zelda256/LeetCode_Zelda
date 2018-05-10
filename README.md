@@ -32,6 +32,7 @@
 |   26  |   064  |   [Minimum Path Sum][26]  |   Medium  |
 |   27  |   066  |   [Plus One][27]  |   Easy  |
 |   28  |   067  |   [Add Binary][28]  |   Easy  |
+|   29  |   070  |   [Climbing Stairs][29]  |   Easy  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -62,3 +63,4 @@
   [26]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/064.%20Minimum%20Path%20Sum.md
   [27]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/066.%20Plus%20One.md
   [28]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/067.%20Add%20Binary.md
+  [29]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/070.%20Climbing%20Stairs.md
