@@ -34,7 +34,8 @@
 |   28  |   067  |   [Add Binary][28]  |   Easy  |
 |   29  |   070  |   [Climbing Stairs][29]  |   Easy  |
 |   30  |   078  |   [Subsets][30]  |   Medium  |
-|   31  |   083  |   [Remove Duplicates from Sorted List II][31]  |   Medium  |
+|   31  |   082  |   [Remove Duplicates from Sorted List II][31]  |   Medium  |
+|   32  |   083  |   [Remove Duplicates from Sorted List][32]  |   Easy  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -68,3 +69,4 @@
   [29]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/070.%20Climbing%20Stairs.md
   [30]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/078.%20Subsets.md
   [31]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/082.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md
+  [32]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/083.%20Remove%20Duplicates%20from%20Sorted%20List.md
