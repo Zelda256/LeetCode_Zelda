@@ -36,6 +36,7 @@
 |   30  |   078  |   [Subsets][30]  |   Medium  |
 |   31  |   082  |   [Remove Duplicates from Sorted List II][31]  |   Medium  |
 |   32  |   083  |   [Remove Duplicates from Sorted List][32]  |   Easy  |
+|   33  |   094  |   [Binary Tree Inorder Traversal][33]  |   Medium  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -70,3 +71,4 @@
   [30]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/078.%20Subsets.md
   [31]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/082.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md
   [32]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/083.%20Remove%20Duplicates%20from%20Sorted%20List.md
+  [33]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/094.%20Binary%20Tree%20Inorder%20Traversal.md
