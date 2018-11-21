@@ -40,6 +40,7 @@
 |   34  |   096  |   [Unique Binary Search Trees][34]  |   Medium  |
 |   35  |   098  |   [Validate Binary Search Tree][35]  |   Medium  |
 |   36  |   100  |   [Same Tree][36]  |   Easy  |
+|   37  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -78,3 +79,4 @@
   [34]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/096.%20Unique%20Binary%20Search%20Trees.md
   [35]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/098.%20Validate%20Binary%20Search%20Tree.md
   [36]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/100.%20Same%20Tree.md
+  [37]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/144.%20Binary%20Tree%20Preorder%20Traversal.md
