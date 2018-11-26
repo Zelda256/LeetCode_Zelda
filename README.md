@@ -42,6 +42,7 @@
 |   36  |   100  |   [Same Tree][36]  |   Easy  |
 |   37  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   38  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
+|   39  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -82,3 +83,4 @@
   [36]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/100.%20Same%20Tree.md
   [37]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/144.%20Binary%20Tree%20Preorder%20Traversal.md
   [38]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/145.%20Binary%20Tree%20Postorder%20Traversal.md
+  [39]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md
