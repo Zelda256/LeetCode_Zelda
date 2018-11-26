@@ -6,7 +6,7 @@
 |:----------:|:----------:|:----------------------------------------------- | :---------------:|
 |   1   |   001  |   [Two Sum][40]   |     Easy    |
 |   2   |   002  |   [Add Two Numbers][1]   |     Medium    |
-|   3   |   003  |   [Longest Substring Without Repeating Characters][41]   |  Medium  |
+|   3   |   003  |   [Longest Substring Without Repeating Characters][41]   |    Medium    |
 |   4   |   004  |   [Median of Two Sorted Arrays][2]   |     Hard    |
 |   5   |   005  |   [Longest Palindromic Substring][3]   |     Medium    |
 |   6   |   007  |   [Reverse Integer][4]   |     Easy    |
@@ -87,3 +87,8 @@
   [38]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/145.%20Binary%20Tree%20Postorder%20Traversal.md
   [39]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md
   [40]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/001.%20Two%20Sum.md
+  [41]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/003.%20Longest%20Substring%20Without%20Repeating%20Characters.md
+
+
+
+
