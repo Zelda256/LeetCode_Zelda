@@ -1,7 +1,5 @@
 # 目录
 
-
-
 |编号| 题目编号 |     标题     |       难度       |
 |:----------:|:----------:|:----------------------------------------------- | :---------------:|
 |   1   |   001  |   [Two Sum][40]   |     Easy    |
@@ -46,6 +44,14 @@
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
+
+
+**已解**： 42 题
+
+
+**备注**：
+不再维护表格的最左列编号按从小到大的顺序，因为题目不是按顺序做的，用markdown编辑表格只能手动序号，操作很麻烦。</br>
+但左第二列的顺序还是维持从小到大。
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
