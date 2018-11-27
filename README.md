@@ -12,39 +12,40 @@
 |   6   |   007  |   [Reverse Integer][4]   |     Easy    |
 |   7   |   011  |   [Container With Most Water][5]   |     Medium    |
 |   8   |   013  |   [Roman to Integer][6]   |     Easy    |
-|   9   |   015  |   [3Sum][7]   |     Medium    |
-|   10  |   017  |   [Letter Combinations of a Phone Number][8]   |     Medium    |
-|   11  |   019  |   [Remove Nth Node From End of List][9]   |     Medium    |
-|   12  |   020  |   [Valid Parentheses][10]   |     Easy    |
-|   13  |   021  |   [Merge Two Sorted Lists][11]   |     Easy    |
-|   14  |   022  |   [Generate Parentheses][12]  |     Medium    |
-|   15  |   026  |   [Remove Duplicates from Sorted Array][13]  |     Easy    |
-|   16  |   028  |   [Implement strStr()][14]  |   Easy  |
-|   17  |   032  |   [Longest Valid Parentheses][15]  |   Hard  |
-|   18  |   033  |   [Search in Rotated Sorted Array][16]  |   Medium  |
-|   19  |   034  |   [Search for a Range][17]  |   Medium  |
-|   20  |   048  |   [Rotate Image][18] |   Medium  |
-|   21  |   053  |   [Maximum Subarray][19]  |   Easy  |
-|   22  |   054  |   [Spiral Matrix][20]  |   Medium  |
-|   23  |   055  |   [Jump Game][21]  |   Medium  |
-|   24  |   058  |   [Length of Last Word][22]  |   Easy  |
-|   25  |   059  |   [Spiral Matrix II][23]  |   Medium  |
-|   26  |   062  |   [Unique Paths][24]  |   Medium  |
-|   27  |   063  |   [Unique Paths II][25]  |   Medium  |
-|   28  |   064  |   [Minimum Path Sum][26]  |   Medium  |
-|   29  |   066  |   [Plus One][27]  |   Easy  |
-|   30  |   067  |   [Add Binary][28]  |   Easy  |
-|   31  |   070  |   [Climbing Stairs][29]  |   Easy  |
-|   32  |   078  |   [Subsets][30]  |   Medium  |
-|   33  |   082  |   [Remove Duplicates from Sorted List II][31]  |   Medium  |
-|   34  |   083  |   [Remove Duplicates from Sorted List][32]  |   Easy  |
-|   35  |   094  |   [Binary Tree Inorder Traversal][33]  |   Medium  |
-|   36  |   096  |   [Unique Binary Search Trees][34]  |   Medium  |
-|   37  |   098  |   [Validate Binary Search Tree][35]  |   Medium  |
-|   38  |   100  |   [Same Tree][36]  |   Easy  |
-|   39  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
-|   40  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
-|   41  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
+|   9   |   014  |   [Longest Common Prefix][42]   |     Easy    |
+|   10  |   015  |   [3Sum][7]   |     Medium    |
+|   11  |   017  |   [Letter Combinations of a Phone Number][8]   |     Medium    |
+|   12  |   019  |   [Remove Nth Node From End of List][9]   |     Medium    |
+|   13  |   020  |   [Valid Parentheses][10]   |     Easy    |
+|   14  |   021  |   [Merge Two Sorted Lists][11]   |     Easy    |
+|   15  |   022  |   [Generate Parentheses][12]  |     Medium    |
+|   16  |   026  |   [Remove Duplicates from Sorted Array][13]  |     Easy    |
+|   17  |   028  |   [Implement strStr()][14]  |   Easy  |
+|   18  |   032  |   [Longest Valid Parentheses][15]  |   Hard  |
+|   19  |   033  |   [Search in Rotated Sorted Array][16]  |   Medium  |
+|   20  |   034  |   [Search for a Range][17]  |   Medium  |
+|   21  |   048  |   [Rotate Image][18] |   Medium  |
+|   22  |   053  |   [Maximum Subarray][19]  |   Easy  |
+|   23  |   054  |   [Spiral Matrix][20]  |   Medium  |
+|   24  |   055  |   [Jump Game][21]  |   Medium  |
+|   25  |   058  |   [Length of Last Word][22]  |   Easy  |
+|   26  |   059  |   [Spiral Matrix II][23]  |   Medium  |
+|   27  |   062  |   [Unique Paths][24]  |   Medium  |
+|   28  |   063  |   [Unique Paths II][25]  |   Medium  |
+|   29  |   064  |   [Minimum Path Sum][26]  |   Medium  |
+|   30  |   066  |   [Plus One][27]  |   Easy  |
+|   31  |   067  |   [Add Binary][28]  |   Easy  |
+|   32  |   070  |   [Climbing Stairs][29]  |   Easy  |
+|   33  |   078  |   [Subsets][30]  |   Medium  |
+|   34  |   082  |   [Remove Duplicates from Sorted List II][31]  |   Medium  |
+|   35  |   083  |   [Remove Duplicates from Sorted List][32]  |   Easy  |
+|   36  |   094  |   [Binary Tree Inorder Traversal][33]  |   Medium  |
+|   37  |   096  |   [Unique Binary Search Trees][34]  |   Medium  |
+|   38  |   098  |   [Validate Binary Search Tree][35]  |   Medium  |
+|   39  |   100  |   [Same Tree][36]  |   Easy  |
+|   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
+|   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
+|   42  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
 
 
   [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -88,6 +89,7 @@
   [39]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md
   [40]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/001.%20Two%20Sum.md
   [41]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/003.%20Longest%20Substring%20Without%20Repeating%20Characters.md
+  [42]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/014.%20Longest%20Common%20Prefix.md
 
 
 
