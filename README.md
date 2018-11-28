@@ -4,7 +4,7 @@
 |:----------:|:----------:|:----------------------------------------------- | :---------------:|
 |   1   |   001  |   [Two Sum][40]   |     Easy    |
 |   2   |   002  |   [Add Two Numbers][1]   |     Medium    |
-|   3   |   003  |   [Longest Substring Without Repeating Characters][41]   |    Medium    |
+|   3   |   003  |   [Longest Substring Without Repeating Characters][41]   |  Medium  |
 |   4   |   004  |   [Median of Two Sorted Arrays][2]   |     Hard    |
 |   5   |   005  |   [Longest Palindromic Substring][3]   |     Medium    |
 |   6   |   007  |   [Reverse Integer][4]   |     Easy    |
