@@ -23,6 +23,7 @@
 |   19  |   033  |   [Search in Rotated Sorted Array][16]  |   Medium  |
 |   20  |   034  |   [Search for a Range][17]  |   Medium  |
 |   43  |   035  |   [Search Insert Position][43]  |   Easy  |
+|   44  |   046  |   [Permutations][44]  |   Medium  |
 |   21  |   048  |   [Rotate Image][18] |   Medium  |
 |   22  |   053  |   [Maximum Subarray][19]  |   Easy  |
 |   23  |   054  |   [Spiral Matrix][20]  |   Medium  |
@@ -51,7 +52,7 @@
 </br>
 </br>
 
-**已解**： 43 题
+**已解**： 44 题
 
 
 **备注**：</br>
@@ -102,6 +103,7 @@
   [41]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/003.%20Longest%20Substring%20Without%20Repeating%20Characters.md
   [42]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/014.%20Longest%20Common%20Prefix.md
   [43]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/035.%20Search%20Insert%20Position.md
+  [44]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/046.%20Permutations.md
 
 
 
