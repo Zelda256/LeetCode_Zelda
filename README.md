@@ -109,11 +109,11 @@
   [42]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/014.%20Longest%20Common%20Prefix.md
   [43]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/035.%20Search%20Insert%20Position.md
   [44]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/046.%20Permutations.md
-  [45]:
-  [46]:
-  [47]:
-  [48]:
-  [49]:
+  [45]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/069.%20Sqrt(x).md
+  [46]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/101.%20Symmetric%20Tree.md
+  [47]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md
+  [48]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md
+  [49]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
 
 
 
