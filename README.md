@@ -35,6 +35,7 @@
 |   29  |   064  |   [Minimum Path Sum][26]  |   Medium  |
 |   30  |   066  |   [Plus One][27]  |   Easy  |
 |   31  |   067  |   [Add Binary][28]  |   Easy  |
+|   45  |   069  |   [Sqrt(x)][45]  |   Easy  |
 |   32  |   070  |   [Climbing Stairs][29]  |   Easy  |
 |   33  |   078  |   [Subsets][30]  |   Medium  |
 |   34  |   082  |   [Remove Duplicates from Sorted List II][31]  |   Medium  |
@@ -43,6 +44,10 @@
 |   37  |   096  |   [Unique Binary Search Trees][34]  |   Medium  |
 |   38  |   098  |   [Validate Binary Search Tree][35]  |   Medium  |
 |   39  |   100  |   [Same Tree][36]  |   Easy  |
+|   46  |   101  |   [Symmetric Tree][46]  |   Easy  |
+|   47  |   102  |   [Binary Tree Level Order Traversal][47]  |   Medium  |
+|   48  |   103  |   [Binary Tree Zigzag Level Order Traversal][48]  |   Medium  |
+|   49  |   104  |   [Maximum Depth of Binary Tree][49]  |   Easy  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
@@ -52,7 +57,7 @@
 </br>
 </br>
 
-**已解**： 44 题
+**已解**： 49 题
 
 
 **备注**：</br>
@@ -104,6 +109,11 @@
   [42]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/014.%20Longest%20Common%20Prefix.md
   [43]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/035.%20Search%20Insert%20Position.md
   [44]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/046.%20Permutations.md
+  [45]:
+  [46]:
+  [47]:
+  [48]:
+  [49]:
 
 
 
