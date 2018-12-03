@@ -48,6 +48,7 @@
 |   47  |   102  |   [Binary Tree Level Order Traversal][47]  |   Medium  |
 |   48  |   103  |   [Binary Tree Zigzag Level Order Traversal][48]  |   Medium  |
 |   49  |   104  |   [Maximum Depth of Binary Tree][49]  |   Easy  |
+|   50  |   125  |   [Valid Palindrome][50]  |   Easy  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
@@ -57,7 +58,7 @@
 </br>
 </br>
 
-**已解**： 49 题
+**已解**： 50 题
 
 
 **备注**：</br>
@@ -114,6 +115,7 @@
   [47]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md
   [48]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md
   [49]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
+  [50]:
 
 
 
