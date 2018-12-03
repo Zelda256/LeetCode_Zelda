@@ -115,7 +115,7 @@
   [47]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md
   [48]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md
   [49]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
-  [50]:
+  [50]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/125.%20Valid%20Palindrome.md
 
 
 
