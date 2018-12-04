@@ -122,8 +122,8 @@
   [48]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md
   [49]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
   [50]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/125.%20Valid%20Palindrome.md
-  [51]:
-  [52]:
+  [51]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/217.%20Contains%20Duplicate.md
+  [52]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/287.%20Find%20the%20Duplicate%20Number.md
 
 
 
