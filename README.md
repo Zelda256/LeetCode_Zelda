@@ -37,6 +37,7 @@
 |   31  |   067  |   [Add Binary][28]  |   Easy  |
 |   45  |   069  |   [Sqrt(x)][45]  |   Easy  |
 |   32  |   070  |   [Climbing Stairs][29]  |   Easy  |
+|   53  |   074  |   [Search a 2D Matrix][53]  |   Medium  |
 |   33  |   078  |   [Subsets][30]  |   Medium  |
 |   34  |   082  |   [Remove Duplicates from Sorted List II][31]  |   Medium  |
 |   35  |   083  |   [Remove Duplicates from Sorted List][32]  |   Easy  |
@@ -48,6 +49,7 @@
 |   47  |   102  |   [Binary Tree Level Order Traversal][47]  |   Medium  |
 |   48  |   103  |   [Binary Tree Zigzag Level Order Traversal][48]  |   Medium  |
 |   49  |   104  |   [Maximum Depth of Binary Tree][49]  |   Easy  |
+|   54  |   104  |   [Construct Binary Tree from Preorder and Inorder Traversal][54]  |   Medium  |
 |   50  |   125  |   [Valid Palindrome][50]  |   Easy  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
@@ -64,7 +66,7 @@
 </br>
 </br>
 
-**已解**： 51 题
+**已解**： 54 题
 
 
 **备注**：</br>
@@ -124,6 +126,9 @@
   [50]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/125.%20Valid%20Palindrome.md
   [51]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/217.%20Contains%20Duplicate.md
   [52]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/287.%20Find%20the%20Duplicate%20Number.md
+  [53]:
+  [54]:
+
 
 
 
