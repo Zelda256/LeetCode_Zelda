@@ -49,7 +49,7 @@
 |   47  |   102  |   [Binary Tree Level Order Traversal][47]  |   Medium  |
 |   48  |   103  |   [Binary Tree Zigzag Level Order Traversal][48]  |   Medium  |
 |   49  |   104  |   [Maximum Depth of Binary Tree][49]  |   Easy  |
-|   54  |   104  |   [Construct Binary Tree from Preorder and Inorder Traversal][54]  |   Medium  |
+|   54  |   105  |   [Construct Binary Tree from Preorder and Inorder Traversal][54]  |   Medium  |
 |   50  |   125  |   [Valid Palindrome][50]  |   Easy  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
@@ -126,8 +126,9 @@
   [50]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/125.%20Valid%20Palindrome.md
   [51]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/217.%20Contains%20Duplicate.md
   [52]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/287.%20Find%20the%20Duplicate%20Number.md
-  [53]:
-  [54]:
+  [53]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/074.%20Search%20a%202D%20Matrix.md
+  [54]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md
+  
 
 
 
