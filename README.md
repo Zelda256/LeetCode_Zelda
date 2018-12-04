@@ -52,13 +52,19 @@
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
+|   51  |   217  |   [Contains Duplicate][51]  |   Easy  |
+|   52  |   287  |   [Find the Duplicate Number][52]  |   Medium  |
+
+
+
+
 
 </br>
 </br>
 </br>
 </br>
 
-**已解**： 50 题
+**已解**： 51 题
 
 
 **备注**：</br>
@@ -116,6 +122,8 @@
   [48]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md
   [49]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
   [50]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/125.%20Valid%20Palindrome.md
+  [51]:
+  [52]:
 
 
 
