@@ -55,18 +55,17 @@
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
 |   51  |   217  |   [Contains Duplicate][51]  |   Easy  |
+|   55  |   232  |   [Implement Queue using Stacks][55]  |   Easy  |
 |   52  |   287  |   [Find the Duplicate Number][52]  |   Medium  |
 
 
 
-
-
 </br>
 </br>
 </br>
 </br>
 
-**已解**： 54 题
+**已解**： 55 题
 
 
 **备注**：</br>
@@ -128,6 +127,7 @@
   [52]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/287.%20Find%20the%20Duplicate%20Number.md
   [53]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/074.%20Search%20a%202D%20Matrix.md
   [54]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md
+  [55]:
   
 
 
