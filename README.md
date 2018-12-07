@@ -131,10 +131,8 @@
   [54]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md
   [55]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/232.%20Implement%20Queue%20using%20Stacks.md
   [56]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/225.%20Implement%20Stack%20using%20Queues.md
-  [57]:
+  [57]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/867.%20Transpose%20Matrix.md
   
-
-
 
 
 
