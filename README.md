@@ -58,7 +58,7 @@
 |   56  |   225  |   [Implement Stack using Queues][56]  |   Easy  |
 |   55  |   232  |   [Implement Queue using Stacks][55]  |   Easy  |
 |   52  |   287  |   [Find the Duplicate Number][52]  |   Medium  |
-
+|   57  |   867  |   [Transpose Matrix][57]  |   Easy  |
 
 
 
@@ -67,7 +67,7 @@
 </br>
 </br>
 
-**已解**： 55 题
+**已解**： 57 题
 
 
 **备注**：</br>
@@ -131,6 +131,7 @@
   [54]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md
   [55]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/232.%20Implement%20Queue%20using%20Stacks.md
   [56]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/225.%20Implement%20Stack%20using%20Queues.md
+  [57]:
   
 
 
