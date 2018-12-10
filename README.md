@@ -50,6 +50,7 @@
 |   48  |   103  |   [Binary Tree Zigzag Level Order Traversal][48]  |   Medium  |
 |   49  |   104  |   [Maximum Depth of Binary Tree][49]  |   Easy  |
 |   54  |   105  |   [Construct Binary Tree from Preorder and Inorder Traversal][54]  |   Medium  |
+|   58  |   120  |   [Triangle][58]  |   Medium  |
 |   50  |   125  |   [Valid Palindrome][50]  |   Easy  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
@@ -61,13 +62,12 @@
 |   57  |   867  |   [Transpose Matrix][57]  |   Easy  |
 
 
-
 </br>
 </br>
 </br>
 </br>
 
-**已解**： 57 题
+**已解**： 58 题
 
 
 **备注**：</br>
@@ -132,6 +132,7 @@
   [55]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/232.%20Implement%20Queue%20using%20Stacks.md
   [56]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/225.%20Implement%20Stack%20using%20Queues.md
   [57]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/867.%20Transpose%20Matrix.md
+  [58]:
   
 
 
