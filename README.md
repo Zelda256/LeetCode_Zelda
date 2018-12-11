@@ -54,20 +54,24 @@
 |   50  |   125  |   [Valid Palindrome][50]  |   Easy  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
+|   60  |   153  |   [Find Minimum in Rotated Sorted Array][60]  |   Medium  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |   Easy  |
 |   51  |   217  |   [Contains Duplicate][51]  |   Easy  |
 |   56  |   225  |   [Implement Stack using Queues][56]  |   Easy  |
 |   55  |   232  |   [Implement Queue using Stacks][55]  |   Easy  |
+|   59  |   237  |   [Delete Node in a Linked List][59]  |   Easy  |
 |   52  |   287  |   [Find the Duplicate Number][52]  |   Medium  |
 |   57  |   867  |   [Transpose Matrix][57]  |   Easy  |
 
 
+153. Find Minimum in Rotated Sorted Array
+
 </br>
 </br>
 </br>
 </br>
 
-**已解**： 58 题
+**已解**： 59 题
 
 
 **备注**：</br>
@@ -132,7 +136,9 @@
   [55]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/232.%20Implement%20Queue%20using%20Stacks.md
   [56]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/225.%20Implement%20Stack%20using%20Queues.md
   [57]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/867.%20Transpose%20Matrix.md
-  [58]:
+  [58]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/120.%20Triangle.md
+  [59]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/237.%20Delete%20Node%20in%20a%20Linked%20List.md
+  [60]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md
   
 
 
