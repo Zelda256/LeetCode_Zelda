@@ -52,6 +52,8 @@
 |   54  |   105  |   [Construct Binary Tree from Preorder and Inorder Traversal][54]  |   Medium  |
 |   58  |   120  |   [Triangle][58]  |   Medium  |
 |   50  |   125  |   [Valid Palindrome][50]  |   Easy  |
+|   61  |   141  |   [Linked List Cycle][61]  |   Easy  |
+|   62  |   142  |   [Linked List Cycle II][62]  |   Medium  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |   hard  |
 |   60  |   153  |   [Find Minimum in Rotated Sorted Array][60]  |   Medium  |
@@ -64,14 +66,15 @@
 |   57  |   867  |   [Transpose Matrix][57]  |   Easy  |
 
 
-153. Find Minimum in Rotated Sorted Array
+
+
 
 </br>
 </br>
 </br>
 </br>
 
-**已解**： 59 题
+**已解**： 62 题
 
 
 **备注**：</br>
@@ -139,7 +142,8 @@
   [58]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/120.%20Triangle.md
   [59]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/237.%20Delete%20Node%20in%20a%20Linked%20List.md
   [60]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md
-  
+  [61]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/141.%20Linked%20List%20Cycle.md
+  [62]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/142.%20Linked%20List%20Cycle%20II.md
 
 
 
