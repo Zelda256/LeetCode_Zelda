@@ -28,6 +28,7 @@
 |   22  |   053  |   [Maximum Subarray][19]  |     |   Easy  |
 |   23  |   054  |   [Spiral Matrix][20]  |     |   Medium  |
 |   24  |   055  |   [Jump Game][21]  |     |   Medium  |
+|   70  |   056  |   [Merge Intervals][70]  |     |   Medium  |
 |   25  |   058  |   [Length of Last Word][22]  |     |   Easy  |
 |   26  |   059  |   [Spiral Matrix II][23]  |     |   Medium  |
 |   27  |   062  |   [Unique Paths][24]  |     |   Medium  |
@@ -73,16 +74,9 @@
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
 
 
-
 </br>
 </br>
 
-**已解**： 69 题
-
-
-**备注**：</br>
-不再维护表格的最左列编号按从小到大的顺序，因为题目不是按顺序做的，用markdown编辑表格只能手动序号，操作很麻烦。</br>
-但左第二列的顺序还是维持从小到大。
 
 
 [1]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/002.%20Add%20Two%20Numbers.md
@@ -154,4 +148,5 @@
 [67]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/354.%20Russian%20Doll%20Envelopes.md
 [68]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/221.%20Maximal%20Square.md
 [69]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/128.%20Longest%20Consecutive%20Sequence.md
+[70]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/056.%20Merge%20Intervals.md
 
