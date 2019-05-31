@@ -60,8 +60,11 @@
 |   62  |   142  |   [Linked List Cycle II][62]  |     |   Medium  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |     |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |     |   hard  |
+|   71  |   151  |   [Reverse Words in a String][71]  |     |   Medium  |
 |   60  |   153  |   [Find Minimum in Rotated Sorted Array][60]  |     |   Medium  |
+|   72  |   155  |   [Min Stack][72]  |     |   Easy  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |     |   Easy  |
+|   73  |   189  |   [Rotate Array][73]  |     |   Easy  |
 |   63  |   206  |   [Reverse Linked List][63]  |     |   Easy  |
 |   51  |   217  |   [Contains Duplicate][51]  |     |   Easy  |
 |   68  |   221  |   [Maximal Square][68]  |     |   Medium  |
@@ -72,6 +75,7 @@
 |   52  |   287  |   [Find the Duplicate Number][52]  |     |   Medium  |
 |   67  |   354  |   [Russian Doll Envelopes][67]  |     |   Hard  |
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
+
 
 
 </br>
@@ -118,35 +122,39 @@
 [37]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/144.%20Binary%20Tree%20Preorder%20Traversal.md
 [38]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/145.%20Binary%20Tree%20Postorder%20Traversal.md
 [39]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md
-[40]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/001.%20Two%20Sum.md
-[41]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/003.%20Longest%20Substring%20Without%20Repeating%20Characters.md
-[42]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/014.%20Longest%20Common%20Prefix.md
-[43]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/035.%20Search%20Insert%20Position.md
-[44]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/046.%20Permutations.md
-[45]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/069.%20Sqrt(x).md
-[46]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/101.%20Symmetric%20Tree.md
-[47]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md
-[48]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md
-[49]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
-[50]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/125.%20Valid%20Palindrome.md
-[51]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/217.%20Contains%20Duplicate.md
-[52]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/287.%20Find%20the%20Duplicate%20Number.md
-[53]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/074.%20Search%20a%202D%20Matrix.md
-[54]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md
-[55]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/232.%20Implement%20Queue%20using%20Stacks.md
-[56]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/225.%20Implement%20Stack%20using%20Queues.md
-[57]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/867.%20Transpose%20Matrix.md
-[58]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/120.%20Triangle.md
-[59]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/237.%20Delete%20Node%20in%20a%20Linked%20List.md
-[60]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md
-[61]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/141.%20Linked%20List%20Cycle.md
-[62]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/142.%20Linked%20List%20Cycle%20II.md
-[63]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/206.%20Reverse%20Linked%20List.md
-[64]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/226.%20Invert%20Binary%20Tree.md
-[65]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md
-[66]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md
-[67]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/354.%20Russian%20Doll%20Envelopes.md
-[68]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/221.%20Maximal%20Square.md
-[69]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/128.%20Longest%20Consecutive%20Sequence.md
-[70]:https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/056.%20Merge%20Intervals.md
+[40]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/001.%20Two%20Sum.md
+[41]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/003.%20Longest%20Substring%20Without%20Repeating%20Characters.md
+[42]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/014.%20Longest%20Common%20Prefix.md
+[43]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/035.%20Search%20Insert%20Position.md
+[44]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/046.%20Permutations.md
+[45]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/069.%20Sqrt(x).md
+[46]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/101.%20Symmetric%20Tree.md
+[47]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md
+[48]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md
+[49]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
+[50]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/125.%20Valid%20Palindrome.md
+[51]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/217.%20Contains%20Duplicate.md
+[52]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/287.%20Find%20the%20Duplicate%20Number.md
+[53]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/074.%20Search%20a%202D%20Matrix.md
+[54]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md
+[55]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/232.%20Implement%20Queue%20using%20Stacks.md
+[56]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/225.%20Implement%20Stack%20using%20Queues.md
+[57]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/867.%20Transpose%20Matrix.md
+[58]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/120.%20Triangle.md
+[59]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/237.%20Delete%20Node%20in%20a%20Linked%20List.md
+[60]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md
+[61]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/141.%20Linked%20List%20Cycle.md
+[62]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/142.%20Linked%20List%20Cycle%20II.md
+[63]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/206.%20Reverse%20Linked%20List.md
+[64]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/226.%20Invert%20Binary%20Tree.md
+[65]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md
+[66]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md
+[67]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/354.%20Russian%20Doll%20Envelopes.md
+[68]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/221.%20Maximal%20Square.md
+[69]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/128.%20Longest%20Consecutive%20Sequence.md
+[70]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/056.%20Merge%20Intervals.md
+[71]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/151.%20Reverse%20Words%20in%20a%20String.md
+[72]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/155.%20Min%20Stack.md
+[73]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/189.%20Rotate%20Array.md
+
 
