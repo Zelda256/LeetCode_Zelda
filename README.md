@@ -63,9 +63,12 @@
 |   71  |   151  |   [Reverse Words in a String][71]  |     |   Medium  |
 |   60  |   153  |   [Find Minimum in Rotated Sorted Array][60]  |     |   Medium  |
 |   72  |   155  |   [Min Stack][72]  |     |   Easy  |
+|   74  |   160  |   [Intersection of Two Linked Lists][74]  |  [相交链表][74]   |   Easy  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |     |   Easy  |
 |   73  |   189  |   [Rotate Array][73]  |     |   Easy  |
+|   75  |   198  |   [House Robber][75]  |  [打家劫舍][75]   |   Easy  |
 |   63  |   206  |   [Reverse Linked List][63]  |     |   Easy  |
+|   76  |   213  |   [House Robber II][76]  |  [打家劫舍 II][76]   |   Medium  |
 |   51  |   217  |   [Contains Duplicate][51]  |     |   Easy  |
 |   68  |   221  |   [Maximal Square][68]  |     |   Medium  |
 |   56  |   225  |   [Implement Stack using Queues][56]  |     |   Easy  |
@@ -75,6 +78,7 @@
 |   52  |   287  |   [Find the Duplicate Number][52]  |     |   Medium  |
 |   67  |   354  |   [Russian Doll Envelopes][67]  |     |   Hard  |
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
+
 
 
 
@@ -156,5 +160,9 @@
 [71]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/151.%20Reverse%20Words%20in%20a%20String.md
 [72]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/155.%20Min%20Stack.md
 [73]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/189.%20Rotate%20Array.md
+[74]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/160.%20Intersection%20of%20Two%20Linked%20Lists.md
+[75]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/198.%20House%20Robber.md
+[76]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/213.%20House%20Robber%20II.md
+
 
 
