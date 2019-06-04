@@ -39,6 +39,7 @@
 |   45  |   069  |   [Sqrt(x)][45]  |     |   Easy  |
 |   32  |   070  |   [Climbing Stairs][29]  |     |   Easy  |
 |   53  |   074  |   [Search a 2D Matrix][53]  |     |   Medium  |
+|   80  |   075  |   [Sort Colors][80]  |  [颜色分类][80]   |   Medium  |
 |   33  |   078  |   [Subsets][30]  |     |   Medium  |
 |   34  |   082  |   [Remove Duplicates from Sorted List II][31]  |     |   Medium  |
 |   35  |   083  |   [Remove Duplicates from Sorted List][32]  |     |   Easy  |
@@ -65,6 +66,7 @@
 |   72  |   155  |   [Min Stack][72]  |     |   Easy  |
 |   74  |   160  |   [Intersection of Two Linked Lists][74]  |  [相交链表][74]   |   Easy  |
 |   42  |   167  |   [Two Sum II - Input array is sorted][39]  |     |   Easy  |
+|   79  |   169  |   [Majority Element][79]  |  [求众数][79]   |   Easy  |
 |   73  |   189  |   [Rotate Array][73]  |     |   Easy  |
 |   75  |   198  |   [House Robber][75]  |  [打家劫舍][75]   |   Easy  |
 |   63  |   206  |   [Reverse Linked List][63]  |     |   Easy  |
@@ -73,13 +75,13 @@
 |   68  |   221  |   [Maximal Square][68]  |     |   Medium  |
 |   56  |   225  |   [Implement Stack using Queues][56]  |     |   Easy  |
 |   64  |   226  |   [Invert Binary Tree][64]  |     |   Easy  |
+|   77  |   230  |   [Kth Smallest Element in a BST][77]  |  [二叉搜索树中第K小的元素][77]   |   Medium  |
 |   55  |   232  |   [Implement Queue using Stacks][55]  |     |   Easy  |
 |   59  |   237  |   [Delete Node in a Linked List][59]  |     |   Easy  |
 |   52  |   287  |   [Find the Duplicate Number][52]  |     |   Medium  |
 |   67  |   354  |   [Russian Doll Envelopes][67]  |     |   Hard  |
+|   78  |   671  |   [Second Minimum Node In a Binary Tree][78]  |  [二叉树中第二小的节点][78]   |   Easy  |
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
-
-
 
 
 </br>
@@ -163,6 +165,9 @@
 [74]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/160.%20Intersection%20of%20Two%20Linked%20Lists.md
 [75]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/198.%20House%20Robber.md
 [76]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/213.%20House%20Robber%20II.md
-
+[77]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md
+[78]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md
+[79]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/169.%20Majority%20Element.md
+[80]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/75.%20Sort%20Colors.md
 
 
