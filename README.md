@@ -168,6 +168,6 @@
 [77]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md
 [78]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md
 [79]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/169.%20Majority%20Element.md
-[80]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/75.%20Sort%20Colors.md
+[80]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/075.%20Sort%20Colors.md
 
 
