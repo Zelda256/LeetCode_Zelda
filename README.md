@@ -18,6 +18,7 @@
 |   14  |   021  |   [Merge Two Sorted Lists][11]   |      |     Easy    |
 |   15  |   022  |   [Generate Parentheses][12]  |     |     Medium    |
 |   16  |   026  |   [Remove Duplicates from Sorted Array][13]  |     |     Easy    |
+|   81  |   027  |   [Remove Element][81]  |  [移除元素][81]   |     Easy    |
 |   17  |   028  |   [Implement strStr()][14]  |     |   Easy  |
 |   18  |   032  |   [Longest Valid Parentheses][15]  |     |   Hard  |
 |   19  |   033  |   [Search in Rotated Sorted Array][16]  |     |   Medium  |
@@ -82,6 +83,8 @@
 |   67  |   354  |   [Russian Doll Envelopes][67]  |     |   Hard  |
 |   78  |   671  |   [Second Minimum Node In a Binary Tree][78]  |  [二叉树中第二小的节点][78]   |   Easy  |
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
+
+
 
 
 </br>
@@ -169,5 +172,7 @@
 [78]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md
 [79]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/169.%20Majority%20Element.md
 [80]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/075.%20Sort%20Colors.md
+[81]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/027.%20Remove%20Element.md
+
 
 
