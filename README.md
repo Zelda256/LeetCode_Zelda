@@ -1,6 +1,6 @@
 # 目录
 
-|编号| 题目编号 |     标题     |     标题     |       难度       |
+|序号| 题目编号 |     标题     |     标题     |       难度       |
 |:----------:|:----------:|:----------------------------------------------- | :----------------| -----------------|
 |   1   |   001  |   [Two Sum][40]   | [两数之和][40] |     Easy    |
 |   2   |   002  |   [Add Two Numbers][1]   | [两数相加][1] |     Medium    |
@@ -79,6 +79,8 @@
 |   77  |   230  |   [Kth Smallest Element in a BST][77]  |  [二叉搜索树中第K小的元素][77]   |   Medium  |
 |   55  |   232  |   [Implement Queue using Stacks][55]  |     |   Easy  |
 |   59  |   237  |   [Delete Node in a Linked List][59]  |     |   Easy  |
+|   82  |   240  |   [Search a 2D Matrix II][82]  |  [搜索二维矩阵 II][82]   |   Medium  |
+|   83  |   283  |   [Move Zeroes][83]  |   [移动零][83]  |   Easy  |
 |   52  |   287  |   [Find the Duplicate Number][52]  |     |   Medium  |
 |   67  |   354  |   [Russian Doll Envelopes][67]  |     |   Hard  |
 |   78  |   671  |   [Second Minimum Node In a Binary Tree][78]  |  [二叉树中第二小的节点][78]   |   Easy  |
@@ -173,6 +175,8 @@
 [79]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/169.%20Majority%20Element.md
 [80]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/075.%20Sort%20Colors.md
 [81]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/027.%20Remove%20Element.md
+[82]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/240.%20Search%20a%202D%20Matrix%20II.md
+[83]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/283.%20Move%20Zeroes.md
 
 
 
