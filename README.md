@@ -76,6 +76,7 @@
 |   68  |   221  |   [Maximal Square][68]  |     |   Medium  |
 |   56  |   225  |   [Implement Stack using Queues][56]  |     |   Easy  |
 |   64  |   226  |   [Invert Binary Tree][64]  |     |   Easy  |
+|   84  |   229  |   [Majority Element II][84]  |  [求众数 II][84]   |   Medium  |
 |   77  |   230  |   [Kth Smallest Element in a BST][77]  |  [二叉搜索树中第K小的元素][77]   |   Medium  |
 |   55  |   232  |   [Implement Queue using Stacks][55]  |     |   Easy  |
 |   59  |   237  |   [Delete Node in a Linked List][59]  |     |   Easy  |
@@ -177,6 +178,7 @@
 [81]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/027.%20Remove%20Element.md
 [82]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/240.%20Search%20a%202D%20Matrix%20II.md
 [83]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/283.%20Move%20Zeroes.md
+[84]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/229.%20Majority%20Element%20II.md
 
 
 
