@@ -84,6 +84,7 @@
 |   83  |   283  |   [Move Zeroes][83]  |   [移动零][83]  |   Easy  |
 |   52  |   287  |   [Find the Duplicate Number][52]  |     |   Medium  |
 |   67  |   354  |   [Russian Doll Envelopes][67]  |     |   Hard  |
+|   85  |   414  |   [Third Maximum Number][85]  |  [第三大的数][85]   |   Easy  |
 |   78  |   671  |   [Second Minimum Node In a Binary Tree][78]  |  [二叉树中第二小的节点][78]   |   Easy  |
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
 
@@ -179,6 +180,7 @@
 [82]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/240.%20Search%20a%202D%20Matrix%20II.md
 [83]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/283.%20Move%20Zeroes.md
 [84]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/229.%20Majority%20Element%20II.md
+[85]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/414.%20Third%20MaximumN%20umber.md
 
 
 
