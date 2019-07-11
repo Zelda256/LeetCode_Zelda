@@ -85,6 +85,7 @@
 |   82  |   240  |   [Search a 2D Matrix II][82]  |  [搜索二维矩阵 II][82]   |   Medium  |
 |   83  |   283  |   [Move Zeroes][83]  |   [移动零][83]  |   Easy  |
 |   52  |   287  |   [Find the Duplicate Number][52]  |     |   Medium  |
+|   89  |   347  |   [Top K Frequent Elements][89]  |  [前 K 个高频元素][89]   |   Medium  |
 |   67  |   354  |   [Russian Doll Envelopes][67]  |     |   Hard  |
 |   85  |   414  |   [Third Maximum Number][85]  |  [第三大的数][85]   |   Easy  |
 |   86  |   416  |   [Partition Equal Subset Sum][86]  |  [分割等和子集][86]   |   Medium  |
@@ -92,7 +93,7 @@
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
 
 
-139. Word Break
+
 
 
 </br>
@@ -188,6 +189,7 @@
 [86]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/416.%20Partition%20Equal%20Subset%20Sum.md
 [87]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md
 [88]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/139.%20Word%20Break.md
+[89]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/347.%20Top%20K%20Frequent%20Elements.md
 
 
 
