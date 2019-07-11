@@ -58,6 +58,7 @@
 |   66  |   122  |   [Best Time to Buy and Sell Stock II][66]  |     |   Easy  |
 |   50  |   125  |   [Valid Palindrome][50]  |     |   Easy  |
 |   69  |   128  |   [Longest Consecutive Sequence][69]  |  [最长连续序列][69]   |   Hard  |
+|   88  |   139  |   [Word Break][88]  |  [单词拆分][88]   |   Medium  |
 |   61  |   141  |   [Linked List Cycle][61]  |     |   Easy  |
 |   62  |   142  |   [Linked List Cycle II][62]  |     |   Medium  |
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |     |   Medium  |
@@ -79,6 +80,7 @@
 |   84  |   229  |   [Majority Element II][84]  |  [求众数 II][84]   |   Medium  |
 |   77  |   230  |   [Kth Smallest Element in a BST][77]  |  [二叉搜索树中第K小的元素][77]   |   Medium  |
 |   55  |   232  |   [Implement Queue using Stacks][55]  |     |   Easy  |
+|   87  |   236  |   [Lowest Common Ancestor of a Binary Tree][87]  |  [二叉树的最近公共祖先][87]   |   Medium  |
 |   59  |   237  |   [Delete Node in a Linked List][59]  |     |   Easy  |
 |   82  |   240  |   [Search a 2D Matrix II][82]  |  [搜索二维矩阵 II][82]   |   Medium  |
 |   83  |   283  |   [Move Zeroes][83]  |   [移动零][83]  |   Easy  |
@@ -90,6 +92,7 @@
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
 
 
+139. Word Break
 
 
 </br>
@@ -183,6 +186,8 @@
 [84]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/229.%20Majority%20Element%20II.md
 [85]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/414.%20Third%20MaximumN%20umber.md
 [86]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/416.%20Partition%20Equal%20Subset%20Sum.md
+[87]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md
+[88]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/139.%20Word%20Break.md
 
 
 
