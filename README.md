@@ -64,6 +64,7 @@
 |   40  |   144  |   [Binary Tree Preorder Traversal][37]  |     |   Medium  |
 |   41  |   145  |   [Binary Tree Postorder Traversal][38]  |     |   hard  |
 |   71  |   151  |   [Reverse Words in a String][71]  |     |   Medium  |
+|   91  |   152  |   [Maximum Product Subarray][91]  |  [乘积最大子序列][91]   |   Medium  |
 |   60  |   153  |   [Find Minimum in Rotated Sorted Array][60]  |     |   Medium  |
 |   72  |   155  |   [Min Stack][72]  |     |   Easy  |
 |   74  |   160  |   [Intersection of Two Linked Lists][74]  |  [相交链表][74]   |   Easy  |
@@ -192,6 +193,7 @@
 [88]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/139.%20Word%20Break.md
 [89]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/347.%20Top%20K%20Frequent%20Elements.md
 [90]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/238.%20Product%20of%20Array%20Except%20Self.md
+[91]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/152.%20Maximum%20%20Subarray.md
 
 
 
