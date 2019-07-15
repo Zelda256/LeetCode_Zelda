@@ -32,6 +32,7 @@
 |   70  |   056  |   [Merge Intervals][70]  |     |   Medium  |
 |   25  |   058  |   [Length of Last Word][22]  |     |   Easy  |
 |   26  |   059  |   [Spiral Matrix II][23]  |     |   Medium  |
+|   92  |   061  |   [Rotate List][92]  |  [旋转链表][92]   |   Medium  |
 |   27  |   062  |   [Unique Paths][24]  |     |   Medium  |
 |   28  |   063  |   [Unique Paths II][25]  |     |   Medium  |
 |   29  |   064  |   [Minimum Path Sum][26]  |     |   Medium  |
@@ -93,6 +94,7 @@
 |   86  |   416  |   [Partition Equal Subset Sum][86]  |  [分割等和子集][86]   |   Medium  |
 |   78  |   671  |   [Second Minimum Node In a Binary Tree][78]  |  [二叉树中第二小的节点][78]   |   Easy  |
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
+
 
 
 
@@ -187,13 +189,14 @@
 [82]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/240.%20Search%20a%202D%20Matrix%20II.md
 [83]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/283.%20Move%20Zeroes.md
 [84]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/229.%20Majority%20Element%20II.md
-[85]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/414.%20Third%20MaximumN%20umber.md
+[85]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/414.%20Third%20Maximum%20Number.md
 [86]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/416.%20Partition%20Equal%20Subset%20Sum.md
 [87]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md
 [88]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/139.%20Word%20Break.md
 [89]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/347.%20Top%20K%20Frequent%20Elements.md
 [90]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/238.%20Product%20of%20Array%20Except%20Self.md
 [91]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/152.%20Maximum%20%20Subarray.md
+[92]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/061.%20Rotate%20List.md
 
 
 
