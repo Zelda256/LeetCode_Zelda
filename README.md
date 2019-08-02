@@ -11,7 +11,7 @@
 |   7   |   011  |   [Container With Most Water][5]   | [盛最多水的容器][5] |     Medium    |
 |   8   |   013  |   [Roman to Integer][6]   | [罗马数字转整数][6] |     Easy    |
 |   9   |   014  |   [Longest Common Prefix][42]   | [最长公共前缀][42] |     Easy    |
-|   10  |   015  |   [3Sum][7]   |      |     Medium    |
+|   10  |   015  |   [3Sum][7]   |   [三数之和][7]   |     Medium    |
 |   11  |   017  |   [Letter Combinations of a Phone Number][8]   |      |     Medium    |
 |   12  |   019  |   [Remove Nth Node From End of List][9]   |      |     Medium    |
 |   13  |   020  |   [Valid Parentheses][10]   |      |     Easy    |
