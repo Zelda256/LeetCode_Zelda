@@ -73,6 +73,7 @@
 |   79  |   169  |   [Majority Element][79]  |  [求众数][79]   |   Easy  |
 |   73  |   189  |   [Rotate Array][73]  |     |   Easy  |
 |   75  |   198  |   [House Robber][75]  |  [打家劫舍][75]   |   Easy  |
+|   93  |   203  |   [Remove Linked List Elements][93]  |  [移除链表元素][93]   |   Easy  |
 |   63  |   206  |   [Reverse Linked List][63]  |     |   Easy  |
 |   76  |   213  |   [House Robber II][76]  |  [打家劫舍 II][76]   |   Medium  |
 |   51  |   217  |   [Contains Duplicate][51]  |     |   Easy  |
@@ -94,7 +95,6 @@
 |   86  |   416  |   [Partition Equal Subset Sum][86]  |  [分割等和子集][86]   |   Medium  |
 |   78  |   671  |   [Second Minimum Node In a Binary Tree][78]  |  [二叉树中第二小的节点][78]   |   Easy  |
 |   57  |   867  |   [Transpose Matrix][57]  |     |   Easy  |
-
 
 
 
@@ -197,6 +197,7 @@
 [90]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/238.%20Product%20of%20Array%20Except%20Self.md
 [91]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/152.%20Maximum%20%20Subarray.md
 [92]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/061.%20Rotate%20List.md
+[93]: https://github.com/Zelda256/LeetCode_Zelda/blob/master/Problems/203.%20Remove%20Linked%20List%20Elements.md
 
 
 
